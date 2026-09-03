@@ -1,0 +1,1195 @@
+WARN 2025/08/05 17:16:16 Database backend connection information not provided
+INFO 2025/08/05 17:16:16 Map backend initialized successfully!
+INFO 2025/08/05 17:16:16 Using CPU maths, rather than CUDA
+WARN 2025/08/05 17:16:16 Starting server with TLS disabled...
+WARN 2025/08/05 17:16:16 Port for consensus not set, interconnect not started
+DEBUG 2025/08/05 17:16:16 Elliptic public key was not set, could not be found in NDF
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: dG1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+INFO 2025/08/05 17:16:16 Network Interface Initialized for Node 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20537
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20538
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20539
+WARN 2025/08/05 17:16:16 Database backend connection information not provided
+INFO 2025/08/05 17:16:16 Map backend initialized successfully!
+INFO 2025/08/05 17:16:16 Using CPU maths, rather than CUDA
+WARN 2025/08/05 17:16:16 Starting server with TLS disabled...
+WARN 2025/08/05 17:16:16 Port for consensus not set, interconnect not started
+DEBUG 2025/08/05 17:16:16 Elliptic public key was not set, could not be found in NDF
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: dG1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+INFO 2025/08/05 17:16:16 Network Interface Initialized for Node 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20537
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20538
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20539
+WARN 2025/08/05 17:16:16 Database backend connection information not provided
+INFO 2025/08/05 17:16:16 Map backend initialized successfully!
+INFO 2025/08/05 17:16:16 Using CPU maths, rather than CUDA
+WARN 2025/08/05 17:16:16 Starting server with TLS disabled...
+WARN 2025/08/05 17:16:16 Port for consensus not set, interconnect not started
+DEBUG 2025/08/05 17:16:16 Elliptic public key was not set, could not be found in NDF
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: dG1wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB	Addr: 
+INFO 2025/08/05 17:16:16 Network Interface Initialized for Node 
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20537
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20538
+WARN 2025/08/05 17:16:16 No TLS Certificate specified!
+DEBUG 2025/08/05 17:16:16 Adding host: ID: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: localhost:20539
+WARN 2025/08/05 17:16:16 Auth checking disabled, running insecurely
+DEBUG 2025/08/05 17:16:16 Adding host: ID: UGVybWlzc2lvbmluZwAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: registration.default.cmix.rip
+INFO 2025/08/05 17:16:16 Adding dummy gateway sending user
+INFO 2025/08/05 17:16:16 Adding dummy users
+WARN 2025/08/05 17:16:16 Auth checking disabled, running insecurely
+DEBUG 2025/08/05 17:16:16 Adding host: ID: UGVybWlzc2lvbmluZwAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: registration.default.cmix.rip
+INFO 2025/08/05 17:16:16 Adding dummy gateway sending user
+INFO 2025/08/05 17:16:16 Adding dummy users
+WARN 2025/08/05 17:16:16 Auth checking disabled, running insecurely
+DEBUG 2025/08/05 17:16:16 Adding host: ID: UGVybWlzc2lvbmluZwAAAAAAAAAAAAAAAAAAAAAAAAAA	Addr: registration.default.cmix.rip
+INFO 2025/08/05 17:16:16 Adding dummy gateway sending user
+INFO 2025/08/05 17:16:16 Adding dummy users
+INFO 2025/08/05 17:16:18 Updated to WAITING successfully
+INFO 2025/08/05 17:16:18 Updated to WAITING successfully
+INFO 2025/08/05 17:16:18 Updated to WAITING successfully
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 CreateNewRound COMPLETE
+INFO 2025/08/05 17:16:20 Waiting for cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3)...
+INFO 2025/08/05 17:16:20 Waiting for cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3)...
+INFO 2025/08/05 17:16:20 Waiting for cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3)...
+INFO 2025/08/05 17:16:20 Host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20539 without TLS!
+INFO 2025/08/05 17:16:20 Host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20538 without TLS!
+INFO 2025/08/05 17:16:20 Host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20537 without TLS!
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20539 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20538 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20537 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20538 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20539 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20537 Attempt number 0 of 100
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20538
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20537
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20539
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DEBUG 2025/08/05 17:16:20 Token generated: [4 156 20 208 24 198 250 166 203 114 42 210 233 255 36 157 172 93 203 74 199 160 37 61 70 235 46 149 32 97 218 253]
+DEBUG 2025/08/05 17:16:20 Token generated: [120 183 235 180 80 61 15 118 95 124 38 95 28 135 146 59 23 93 201 95 132 152 15 59 132 125 50 66 4 107 234 98]
+DEBUG 2025/08/05 17:16:20 Token generated: [249 248 107 35 49 9 156 127 106 194 205 131 131 107 27 139 4 87 165 13 73 41 162 216 115 118 196 44 159 76 10 145]
+DEBUG 2025/08/05 17:16:20 Live validated: [4 156 20 208 24 198 250 166 203 114 42 210 233 255 36 157 172 93 203 74 199 160 37 61 70 235 46 149 32 97 218 253]
+DEBUG 2025/08/05 17:16:20 Live validated: [120 183 235 180 80 61 15 118 95 124 38 95 28 135 146 59 23 93 201 95 132 152 15 59 132 125 50 66 4 107 234 98]
+DEBUG 2025/08/05 17:16:20 Live validated: [249 248 107 35 49 9 156 127 106 194 205 131 131 107 27 139 4 87 165 13 73 41 162 216 115 118 196 44 159 76 10 145]
+INFO 2025/08/05 17:16:20 cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3) is online...
+INFO 2025/08/05 17:16:20 cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3) is online...
+INFO 2025/08/05 17:16:20 cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3) is online...
+INFO 2025/08/05 17:16:20 Updated to PRECOMPUTING successfully
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 CreateNewRound COMPLETE
+INFO 2025/08/05 17:16:20 Waiting for cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3)...
+INFO 2025/08/05 17:16:20 Host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20539 without TLS!
+INFO 2025/08/05 17:16:20 Waiting for cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3)...
+INFO 2025/08/05 17:16:20 Host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20537 without TLS!
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20539 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20539 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20537 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20537 Attempt number 0 of 100
+INFO 2025/08/05 17:16:20 Waiting for cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3)...
+INFO 2025/08/05 17:16:20 Host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20538 without TLS!
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20538 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20538 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.646136 +1000 AEST m=+4.232352918
+	delta: 0s
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.646162 +1000 AEST m=+4.232379418
+	delta: 26.5µs
+DEBUG 2025/08/05 17:16:20 Sending Round Trip Ping message...
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.646335 +1000 AEST m=+4.232552460
+	delta: 173.042µs
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20539
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20537
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DEBUG 2025/08/05 17:16:20 Token generated: [15 1 3 69 174 46 51 199 136 0 227 12 187 4 64 122 159 113 237 184 52 78 11 247 188 145 119 220 87 20 158 194]
+DEBUG 2025/08/05 17:16:20 Token generated: [192 58 178 86 225 126 13 71 207 195 21 146 86 94 69 21 120 145 199 109 35 129 26 73 89 76 72 160 45 48 229 113]
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20538
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "PrecompGeneration"
+DEBUG 2025/08/05 17:16:20 Live validated: [192 58 178 86 225 126 13 71 207 195 21 146 86 94 69 21 120 145 199 109 35 129 26 73 89 76 72 160 45 48 229 113]
+INFO 2025/08/05 17:16:20 cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3) is online...
+DEBUG 2025/08/05 17:16:20 Token generated: [55 39 114 48 118 171 119 252 249 143 207 132 252 239 47 78 223 61 245 183 43 71 206 190 132 249 130 210 79 127 73 208]
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.647699 +1000 AEST m=+4.233915835
+	delta: 1.363375ms
+DEBUG 2025/08/05 17:16:20 Live validated: [55 39 114 48 118 171 119 252 249 143 207 132 252 239 47 78 223 61 245 183 43 71 206 190 132 249 130 210 79 127 73 208]
+INFO 2025/08/05 17:16:20 cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3) is online...
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.652967 +1000 AEST m=+4.239184001
+	delta: 5.268166ms
+DEBUG 2025/08/05 17:16:20 Live validated: [15 1 3 69 174 46 51 199 136 0 227 12 187 4 64 122 159 113 237 184 52 78 11 247 188 145 119 220 87 20 158 194]
+INFO 2025/08/05 17:16:20 cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3) is online...
+INFO 2025/08/05 17:16:20 Updated to PRECOMPUTING successfully
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 CreateNewRound COMPLETE
+INFO 2025/08/05 17:16:20 Waiting for cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3)...
+INFO 2025/08/05 17:16:20 Host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20539 without TLS!
+INFO 2025/08/05 17:16:20 Waiting for cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3)...
+INFO 2025/08/05 17:16:20 Host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+WARN 2025/08/05 17:16:20 Connecting to localhost:20537 without TLS!
+INFO 2025/08/05 17:16:20 Waiting for cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3)...
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20539 using credentials: &{f:0x3b2d3a0}
+INFO 2025/08/05 17:16:20 Host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA not connected, attempting to connect...
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20539 Attempt number 0 of 100
+WARN 2025/08/05 17:16:20 Connecting to localhost:20538 without TLS!
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20537 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20537 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Attempting to establish connection to localhost:20538 using credentials: &{f:0x3b2d3a0}
+DEBUG 2025/08/05 17:16:20 Connecting to localhost:20538 Attempt number 0 of 100
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.655105 +1000 AEST m=+4.241321835
+	delta: 2.137834ms
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20538
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.655242 +1000 AEST m=+4.241459376
+	delta: 0s
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20539
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DEBUG 2025/08/05 17:16:20 Token generated: [120 162 250 12 246 119 123 249 133 247 187 16 229 67 0 132 164 154 200 137 217 234 134 125 235 224 185 59 121 148 148 82]
+DEBUG 2025/08/05 17:16:20 Live validated: [120 162 250 12 246 119 123 249 133 247 187 16 229 67 0 132 164 154 200 137 217 234 134 125 235 224 185 59 121 148 148 82]
+INFO 2025/08/05 17:16:20 cMix server AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (3/3) is online...
+INFO 2025/08/05 17:16:20 Successfully connected to localhost:20537
+INFO 2025/08/05 17:16:20 Attempting to establish authentication with host AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+DEBUG 2025/08/05 17:16:20 Token generated: [208 92 246 120 160 152 186 255 141 178 40 250 225 164 213 245 32 56 136 30 61 149 36 53 108 74 58 148 108 150 129 118]
+DEBUG 2025/08/05 17:16:20 Live validated: [208 92 246 120 160 152 186 255 141 178 40 250 225 164 213 245 32 56 136 30 61 149 36 53 108 74 58 148 108 150 129 118]
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)]: RID 1 TransmitPhase FOR "PrecompGeneration" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 cMix server AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (1/3) is online...
+DEBUG 2025/08/05 17:16:20 Token generated: [176 15 136 153 214 160 81 76 146 104 82 129 232 246 198 195 216 82 218 11 191 50 128 183 228 122 28 176 133 20 204 248]
+DEBUG 2025/08/05 17:16:20 Live validated: [176 15 136 153 214 160 81 76 146 104 82 129 232 246 198 195 216 82 218 11 191 50 128 183 228 122 28 176 133 20 204 248]
+DEBUG 2025/08/05 17:16:20 Sending Round Trip Ping message...
+DEBUG 2025/08/05 17:16:20 Sending Round Trip Ping message...
+INFO 2025/08/05 17:16:20 Round trip duration for round 1: 14.593417 ms
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompGeneration" -- Adapt: 3.000000ms, outMod: 1.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.661455 +1000 AEST m=+4.247671793
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 PostPhase FROM "PrecompGeneration" FOR "PrecompGeneration" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.661492 +1000 AEST m=+4.247708793
+	delta: 37µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.661504 +1000 AEST m=+4.247720960
+	delta: 12.167µs
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "PrecompGeneration"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.66154 +1000 AEST m=+4.247756501
+	delta: 35.541µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.661553 +1000 AEST m=+4.247770251
+	delta: 13.75µs
+INFO 2025/08/05 17:16:20 cMix server AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (2/3) is online...
+INFO 2025/08/05 17:16:20 Updated to PRECOMPUTING successfully
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.661744 +1000 AEST m=+4.247961335
+	delta: 191.084µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.66175 +1000 AEST m=+4.247967251
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompGeneration" -- Adapt: 0.000000ms, outMod: 0.000000ms
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)]: RID 1 TransmitPhase FOR "PrecompGeneration" COMPLETE/SEND
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.663126 +1000 AEST m=+4.249343043
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 PostPhase FROM "PrecompGeneration" FOR "PrecompGeneration" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.663135 +1000 AEST m=+4.249352376
+	delta: 9.333µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.663145 +1000 AEST m=+4.249361585
+	delta: 9.209µs
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "PrecompGeneration"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.663171 +1000 AEST m=+4.249388376
+	delta: 26.791µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.663182 +1000 AEST m=+4.249399376
+	delta: 11µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 0
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.663411 +1000 AEST m=+4.249627543
+	delta: 228.167µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.663416 +1000 AEST m=+4.249632835
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)]: RID 1 TransmitPhase FOR "PrecompGeneration" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompGeneration" -- Adapt: 0.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.663512 +1000 AEST m=+4.249728835
+	delta: 8.269459ms
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostPhase FROM "PrecompGeneration" FOR "PrecompShare" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Sending Start Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Start Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Start Share Phase message...
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.664276 +1000 AEST m=+4.250493418
+	delta: 764.583µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.666573 +1000 AEST m=+4.252790210
+	delta: 4.822959ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 1
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.667558 +1000 AEST m=+4.253775251
+	delta: 4.142416ms
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)] RID 1 ReceivePrecompTestBatch START
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)] RID 1 ReceivePrecompTestBatch START
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)] RID 1 ReceivePrecompTestBatch START
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)] RID 1 ReceivePrecompTestBatch COMPLETE
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)] RID 1 ReceivePrecompTestBatch COMPLETE
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)] RID 1 ReceivePrecompTestBatch COMPLETE
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Sending Share Phase message...
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc000e1e060 17520475007962620912}] from [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc00028c180 17520475007962620912}] from [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc000aa0080 17520475007962620912}] from [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc0007c82e0 17520475007962620912}] from [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc00067e680 17520475007962620912}] from [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc000d92080 17520475007962620912}] from [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc00012cdc0 17520475007962620912}] from [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc00009c6e0 17520475007962620912}] from [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Received final key [&{0xc0002fed80 17520475007962620912}] from [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]
+DEBUG 2025/08/05 17:16:20 Finalizing key generation for round [1]
+DEBUG 2025/08/05 17:16:20 Finalizing key generation for round [1]
+DEBUG 2025/08/05 17:16:20 Finalizing key generation for round [1]
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveSharePhasePiece PK is: 434298dc84... in GRP: 8yU7MTm4o/...
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 ReceiveSharePhasePiece PK is: 434298dc84... in GRP: 8yU7MTm4o/...
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveSharePhasePiece END
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 ReceiveSharePhasePiece END
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 ReceiveSharePhasePiece PK is: 434298dc84... in GRP: 8yU7MTm4o/...
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 ReceiveSharePhasePiece END
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveSharePhasePiece FIRST NODE START PHASE "PrecompDecrypt"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.694237 +1000 AEST m=+4.280453710
+	delta: 0s
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.694252 +1000 AEST m=+4.280469293
+	delta: 15.583µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.694266 +1000 AEST m=+4.280482585
+	delta: 13.292µs
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "PrecompDecrypt"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.694287 +1000 AEST m=+4.280504085
+	delta: 21.5µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.694302 +1000 AEST m=+4.280518585
+	delta: 14.5µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.75304 +1000 AEST m=+4.339257168
+	delta: 58.738583ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.753048 +1000 AEST m=+4.339264960
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)]: RID 1 TransmitPhase FOR "PrecompDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompDecrypt" -- Adapt: 58.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.753244 +1000 AEST m=+4.339460585
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 PostPhase FROM "PrecompDecrypt" FOR "PrecompDecrypt" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.753253 +1000 AEST m=+4.339470126
+	delta: 9.541µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.753274 +1000 AEST m=+4.339491043
+	delta: 20.917µs
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "PrecompDecrypt"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.753294 +1000 AEST m=+4.339511043
+	delta: 20µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.753307 +1000 AEST m=+4.339524251
+	delta: 13.208µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.8126 +1000 AEST m=+4.398817501
+	delta: 59.29325ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.812617 +1000 AEST m=+4.398833626
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)]: RID 1 TransmitPhase FOR "PrecompDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompDecrypt" -- Adapt: 59.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.812864 +1000 AEST m=+4.399080960
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 PostPhase FROM "PrecompDecrypt" FOR "PrecompDecrypt" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.812875 +1000 AEST m=+4.399092251
+	delta: 11.291µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.812895 +1000 AEST m=+4.399112210
+	delta: 19.959µs
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "PrecompDecrypt"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.812932 +1000 AEST m=+4.399149460
+	delta: 37.25µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.812945 +1000 AEST m=+4.399162043
+	delta: 12.583µs
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=0 keyA=807359e068... in GRP: 8yU7MTm4o/... cipherA=8b74d0b019... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=1 keyA=95bfaf7756... in GRP: 8yU7MTm4o/... cipherA=6a0be62668... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=2 keyA=11b41f9bd3... in GRP: 8yU7MTm4o/... cipherA=40a3f36d95... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=3 keyA=60ba1f1d7e... in GRP: 8yU7MTm4o/... cipherA=bd1caa5f77... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=4 keyA=67f5bc533a... in GRP: 8yU7MTm4o/... cipherA=e5c81ba2ce... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=5 keyA=13f3f5f684... in GRP: 8yU7MTm4o/... cipherA=9e2a6b1af3... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=6 keyA=ce2c0950e6... in GRP: 8yU7MTm4o/... cipherA=b994aad5e1... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=7 keyA=ba1f2e33a6... in GRP: 8yU7MTm4o/... cipherA=9b15a35ea1... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=8 keyA=6ca2fb1683... in GRP: 8yU7MTm4o/... cipherA=a6fad7b0aa... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=9 keyA=82f1d7da42... in GRP: 8yU7MTm4o/... cipherA=7757e87a9f... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=10 keyA=2fc2bef93e... in GRP: 8yU7MTm4o/... cipherA=d805edd25c... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=11 keyA=6cbe8f0319... in GRP: 8yU7MTm4o/... cipherA=ea2bfbb980... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=12 keyA=94e2df9f59... in GRP: 8yU7MTm4o/... cipherA=f321853a4a... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=13 keyA=f04aa0aa8c... in GRP: 8yU7MTm4o/... cipherA=87d114f39a... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=14 keyA=98a9a63349... in GRP: 8yU7MTm4o/... cipherA=f43ebb5a2a... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=15 keyA=1ded8fd531... in GRP: 8yU7MTm4o/... cipherA=23e068925a... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=16 keyA=a6528168d1... in GRP: 8yU7MTm4o/... cipherA=8746b71981... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=17 keyA=c3bcc08eb3... in GRP: 8yU7MTm4o/... cipherA=10523e85e8... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=18 keyA=b2bfb7e0d4... in GRP: 8yU7MTm4o/... cipherA=b1c5b676bb... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=19 keyA=a2b766ba6a... in GRP: 8yU7MTm4o/... cipherA=c7d914f338... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=20 keyA=8f897cc997... in GRP: 8yU7MTm4o/... cipherA=570a618859... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=21 keyA=33e2cd9f95... in GRP: 8yU7MTm4o/... cipherA=14133dac1e... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=22 keyA=d52abf6af3... in GRP: 8yU7MTm4o/... cipherA=3f88238d33... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=23 keyA=9a0422a96d... in GRP: 8yU7MTm4o/... cipherA=840d4c9544... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=24 keyA=6888db0544... in GRP: 8yU7MTm4o/... cipherA=14cd6cbdc5... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=25 keyA=7a79113869... in GRP: 8yU7MTm4o/... cipherA=5bb7a44100... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=26 keyA=99fa84464a... in GRP: 8yU7MTm4o/... cipherA=5dadad03be... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=27 keyA=18b288ae00... in GRP: 8yU7MTm4o/... cipherA=adb181d1d1... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=28 keyA=e9d34d66a5... in GRP: 8yU7MTm4o/... cipherA=fc3d7ca537... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=29 keyA=d81b820c55... in GRP: 8yU7MTm4o/... cipherA=bc5a373d59... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=30 keyA=24bdcdff63... in GRP: 8yU7MTm4o/... cipherA=698675c853... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 [DBG Decrypt-Debug] slot=31 keyA=d3700788b1... in GRP: 8yU7MTm4o/... cipherA=972b143982... in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 2
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.872716 +1000 AEST m=+4.458933501
+	delta: 59.771458ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.872726 +1000 AEST m=+4.458943126
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)]: RID 1 TransmitPhase FOR "PrecompDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompDecrypt" -- Adapt: 59.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.872972 +1000 AEST m=+4.459189501
+	delta: 119.924541ms
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostPhase FROM "PrecompDecrypt" FOR "PrecompPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.872982 +1000 AEST m=+4.459199543
+	delta: 10.042µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.873002 +1000 AEST m=+4.459219085
+	delta: 19.542µs
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "PrecompPermute"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.87302 +1000 AEST m=+4.459237543
+	delta: 18.458µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.873417 +1000 AEST m=+4.459633710
+	delta: 396.167µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.932179 +1000 AEST m=+4.518396043
+	delta: 58.762333ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.932196 +1000 AEST m=+4.518413085
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)]: RID 1 TransmitPhase FOR "PrecompPermute" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompPermute" -- Adapt: 59.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.932431 +1000 AEST m=+4.518648501
+	delta: 119.814875ms
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 PostPhase FROM "PrecompPermute" FOR "PrecompPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.932442 +1000 AEST m=+4.518659543
+	delta: 11.042µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.932465 +1000 AEST m=+4.518682626
+	delta: 23.083µs
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "PrecompPermute"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.932487 +1000 AEST m=+4.518704126
+	delta: 21.5µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.932504 +1000 AEST m=+4.518720960
+	delta: 16.834µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.990468 +1000 AEST m=+4.576685251
+	delta: 57.964291ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.990476 +1000 AEST m=+4.576693251
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)]: RID 1 TransmitPhase FOR "PrecompPermute" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompPermute" -- Adapt: 57.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.990646 +1000 AEST m=+4.576863626
+	delta: 117.9205ms
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 PostPhase FROM "PrecompPermute" FOR "PrecompPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.990656 +1000 AEST m=+4.576873001
+	delta: 9.375µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.990674 +1000 AEST m=+4.576891293
+	delta: 18.292µs
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "PrecompPermute"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.990708 +1000 AEST m=+4.576925376
+	delta: 34.083µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.99072 +1000 AEST m=+4.576937710
+	delta: 12.334µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 3
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:20.991493 +1000 AEST m=+4.577710585
+	delta: 772.875µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:20.991498 +1000 AEST m=+4.577715501
+	delta: 0s
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)]: RID 1 TransmitPhase FOR "PrecompPermute" COMPLETE/SEND
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompPermute" -- Adapt: 0.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.992248 +1000 AEST m=+4.578465251
+	delta: 60.052166ms
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostPhase FROM "PrecompPermute" FOR "PrecompReveal" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:20.992461 +1000 AEST m=+4.578678210
+	delta: 212.959µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.992471 +1000 AEST m=+4.578688751
+	delta: 10.541µs
+INFO 2025/08/05 17:16:20 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "PrecompReveal"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.992596 +1000 AEST m=+4.578812793
+	delta: 124.042µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.994357 +1000 AEST m=+4.580574210
+	delta: 1.761417ms
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.995971 +1000 AEST m=+4.582188710
+	delta: 5.495459ms
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 StreamPostPhase FROM "PrecompReveal" TO "PrecompReveal" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.996027 +1000 AEST m=+4.582243960
+	delta: 55.25µs
+INFO 2025/08/05 17:16:20 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "PrecompReveal"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.996052 +1000 AEST m=+4.582269085
+	delta: 25.125µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.996291 +1000 AEST m=+4.582507960
+	delta: 238.875µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:20.996394 +1000 AEST m=+4.582610918
+	delta: 4.895417ms
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 StreamPostPhase FROM "PrecompReveal" TO "PrecompReveal" RECEIVE/START
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Active
+	timestamp: 2025-08-05 17:16:20.996402 +1000 AEST m=+4.582619585
+	delta: 8.667µs
+INFO 2025/08/05 17:16:20 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "PrecompReveal"
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:20.99642 +1000 AEST m=+4.582636876
+	delta: 17.291µs
+DEBUG 2025/08/05 17:16:20 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:20.996429 +1000 AEST m=+4.582646751
+	delta: 9.875µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.023894 +1000 AEST m=+4.610111043
+	delta: 29.536833ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.023902 +1000 AEST m=+4.610119626
+	delta: 8.583µs
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompReveal" -- Adapt: 3.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.023932 +1000 AEST m=+4.610149793
+	delta: 27.641833ms
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, received phase: PrecompReveal, from: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.023931 +1000 AEST m=+4.610148710, ended: 2025-08-05 17:16:21.024034 +1000 AEST m=+4.610251293, duration: 0,
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)] RID 1 StreamTransmitPhase FOR "PrecompReveal" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, transmitted phase: PrecompReveal, from: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.023666 +1000 AEST m=+4.609883710, ended: 2025-08-05 17:16:21.023902 +1000 AEST m=+4.610119418, duration: 0,
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.052867 +1000 AEST m=+4.639083918
+	delta: 28.934125ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.052876 +1000 AEST m=+4.639093043
+	delta: 9.125µs
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompReveal" -- Adapt: 3.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.052966 +1000 AEST m=+4.639183376
+	delta: 56.536625ms
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, received phase: PrecompReveal, from: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.052964 +1000 AEST m=+4.639181335, ended: 2025-08-05 17:16:21.052994 +1000 AEST m=+4.639211626, duration: 0,
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)] RID 1 StreamTransmitPhase FOR "PrecompReveal" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, transmitted phase: PrecompReveal, from: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.052834 +1000 AEST m=+4.639051501, ended: 2025-08-05 17:16:21.052876 +1000 AEST m=+4.639092835, duration: 0,
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.08258 +1000 AEST m=+4.668797418
+	delta: 29.614042ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.082586 +1000 AEST m=+4.668803710
+	delta: 6.292µs
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "PrecompReveal" -- Adapt: 3.000000ms, outMod: 0.000000ms
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 PostPrecompResult START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.083385 +1000 AEST m=+4.669602460
+	delta: 798.75µs
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 PostPrecompResult START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.08344 +1000 AEST m=+4.669657001
+	delta: 30.563958ms
+INFO 2025/08/05 17:16:21 Updated to STANDBY successfully
+INFO 2025/08/05 17:16:21 Updated to STANDBY successfully
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostPrecompResult START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 4
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.083708 +1000 AEST m=+4.669925168
+	delta: 59.805542ms
+INFO 2025/08/05 17:16:21 Updated to STANDBY successfully
+INFO 2025/08/05 17:16:21 Updated to REALTIME successfully
+INFO 2025/08/05 17:16:21 Updated to REALTIME successfully
+INFO 2025/08/05 17:16:21 Updated to REALTIME successfully
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostNewBatch START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.0846 +1000 AEST m=+4.670816876
+	delta: 0s
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.084606 +1000 AEST m=+4.670822918
+	delta: 6.042µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.084618 +1000 AEST m=+4.670835210
+	delta: 12.292µs
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "RealDecrypt"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.084638 +1000 AEST m=+4.670855126
+	delta: 19.916µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.084648 +1000 AEST m=+4.670865210
+	delta: 10.084µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.086974 +1000 AEST m=+4.673191543
+	delta: 2.326333ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.086981 +1000 AEST m=+4.673198293
+	delta: 0s
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)]: RID 1 TransmitPhase FOR "RealDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealDecrypt" -- Adapt: 2.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.087157 +1000 AEST m=+4.673374793
+	delta: 0s
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 PostPhase FROM "RealDecrypt" FOR "RealDecrypt" RECEIVE/START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.087167 +1000 AEST m=+4.673384168
+	delta: 9.375µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.08718 +1000 AEST m=+4.673396960
+	delta: 12.792µs
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "RealDecrypt"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.087199 +1000 AEST m=+4.673416460
+	delta: 19.5µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.087213 +1000 AEST m=+4.673429918
+	delta: 13.458µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.08785 +1000 AEST m=+4.674067710
+	delta: 637.792µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.087858 +1000 AEST m=+4.674075001
+	delta: 0s
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)]: RID 1 TransmitPhase FOR "RealDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealDecrypt" -- Adapt: 0.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.087987 +1000 AEST m=+4.674203876
+	delta: 0s
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 PostPhase FROM "RealDecrypt" FOR "RealDecrypt" RECEIVE/START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.087995 +1000 AEST m=+4.674212210
+	delta: 8.334µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.088006 +1000 AEST m=+4.674223293
+	delta: 11.083µs
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "RealDecrypt"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.088023 +1000 AEST m=+4.674240668
+	delta: 17.375µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.088029 +1000 AEST m=+4.674246585
+	delta: 5.917µs
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[0]=1 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[1]=2 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[2]=3 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[3]=4 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[4]=5 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[5]=6 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[6]=7 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[7]=8 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[8]=9 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[9]=a in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[10]=b in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[11]=c in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[12]=d in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[13]=e in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[14]=f in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[15]=10 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[16]=11 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[17]=12 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[18]=13 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[19]=14 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[20]=15 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[21]=16 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[22]=17 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[23]=18 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[24]=19 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[25]=1a in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[26]=1b in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[27]=1c in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[28]=1d in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[29]=1e in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[30]=1f in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 [Insider] real-time re-encrypt, slot[31]=20 in GRP: 8yU7MTm4o/...
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 5
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.089199 +1000 AEST m=+4.675416168
+	delta: 1.169583ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.089203 +1000 AEST m=+4.675420335
+	delta: 0s
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539 - (3/3)]: RID 1 TransmitPhase FOR "RealDecrypt" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealDecrypt" -- Adapt: 1.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.089318 +1000 AEST m=+4.675535001
+	delta: 2.336708ms
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 PostPhase FROM "RealDecrypt" FOR "RealPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.089326 +1000 AEST m=+4.675543293
+	delta: 8.292µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.089337 +1000 AEST m=+4.675554460
+	delta: 11.167µs
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Beginning execution of Phase "RealPermute"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.089345 +1000 AEST m=+4.675562418
+	delta: 7.958µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.08939 +1000 AEST m=+4.675607001
+	delta: 44.583µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.089458 +1000 AEST m=+4.675675460
+	delta: 1.600459ms
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 StreamPostPhase FROM "RealPermute" TO "RealPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.089467 +1000 AEST m=+4.675684460
+	delta: 9µs
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Beginning execution of Phase "RealPermute"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.089476 +1000 AEST m=+4.675693085
+	delta: 8.625µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.089537 +1000 AEST m=+4.675754626
+	delta: 61.541µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive Header/Edge Checks
+	timestamp: 2025-08-05 17:16:21.089603 +1000 AEST m=+4.675819835
+	delta: 399.5µs
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 StreamPostPhase FROM "RealPermute" TO "RealPermute" RECEIVE/START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Active
+	timestamp: 2025-08-05 17:16:21.08961 +1000 AEST m=+4.675827126
+	delta: 7.291µs
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Beginning execution of Phase "RealPermute"
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Header/Start Transmitter
+	timestamp: 2025-08-05 17:16:21.089617 +1000 AEST m=+4.675833876
+	delta: 6.75µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish First Slot
+	timestamp: 2025-08-05 17:16:21.089627 +1000 AEST m=+4.675844835
+	delta: 10.959µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.089769 +1000 AEST m=+4.675986043
+	delta: 379.042µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.089772 +1000 AEST m=+4.675989626
+	delta: 3.583µs
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealPermute" -- Adapt: 0.000000ms, outMod: 0.000000ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.089842 +1000 AEST m=+4.676059710
+	delta: 305.084µs
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, received phase: RealPermute, from: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.089841 +1000 AEST m=+4.676058501, ended: 2025-08-05 17:16:21.089868 +1000 AEST m=+4.676085585, duration: 0,
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537 - (1/3)] RID 1 StreamTransmitPhase FOR "RealPermute" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, transmitted phase: RealPermute, from: AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.08974 +1000 AEST m=+4.675957335, ended: 2025-08-05 17:16:21.089772 +1000 AEST m=+4.675989543, duration: 0,
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Receive First Slot
+	timestamp: 2025-08-05 17:16:21.090171 +1000 AEST m=+4.676388751
+	delta: 543.916µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.090385 +1000 AEST m=+4.676602501
+	delta: 542.791µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.090389 +1000 AEST m=+4.676605918
+	delta: 3.417µs
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealPermute" -- Adapt: 0.000000ms, outMod: 0.000000ms
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, received phase: RealPermute, from: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.090157 +1000 AEST m=+4.676374085, ended: 2025-08-05 17:16:21.090436 +1000 AEST m=+4.676653751, duration: 0,
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538 - (2/3)] RID 1 StreamTransmitPhase FOR "RealPermute" COMPLETE/SEND
+INFO 2025/08/05 17:16:21 	bwLogging: Round 1, transmitted phase: RealPermute, from: AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, to: AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, started: 2025-08-05 17:16:21.090066 +1000 AEST m=+4.676282918, ended: 2025-08-05 17:16:21.090389 +1000 AEST m=+4.676605876, duration: 0,
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Finish Last Slot
+	timestamp: 2025-08-05 17:16:21.090866 +1000 AEST m=+4.677083710
+	delta: 694.959µs
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Transmit Last Slot
+	timestamp: 2025-08-05 17:16:21.09087 +1000 AEST m=+4.677087168
+	delta: 3.458µs
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]: RID 1 Finishing execution of Phase "RealPermute" -- Adapt: 0.000000ms, outMod: 0.000000ms
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 ReceiveFinishRealtime START
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 ReceiveFinishRealtime START
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveFinishRealtime START
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.093574 +1000 AEST m=+4.679791710
+	delta: 3.802084ms
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.093577 +1000 AEST m=+4.679794793
+	delta: 2.707625ms
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 ReceiveFinishRealtime END
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveFinishRealtime END
+DEBUG 2025/08/05 17:16:21 Recorded phase measurement:
+	round ID: 1
+	phase: 6
+	tag: Verification
+	timestamp: 2025-08-05 17:16:21.09373 +1000 AEST m=+4.679947793
+	delta: 3.341875ms
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 ReceiveFinishRealtime END
+WARN 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 ReceiveFinishRealtime MEMORY LEAK - Round buffers not purged 
+WARN 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 ReceiveFinishRealtime MEMORY LEAK - Round buffers not purged 
+WARN 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 ReceiveFinishRealtime MEMORY LEAK - Round buffers not purged 
+INFO 2025/08/05 17:16:21 [AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20538]: RID 1 Round took 448.311ms seconds
+INFO 2025/08/05 17:16:21 [AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20539]: RID 1 Round took 439.591ms seconds
+INFO 2025/08/05 17:16:21 [AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA:20537]: RID 1 Round took 508.533ms seconds
+INFO 2025/08/05 17:16:21 Updated to COMPLETED successfully
+INFO 2025/08/05 17:16:21 Updated to COMPLETED successfully
+INFO 2025/08/05 17:16:21 Updated to COMPLETED successfully
+PASS
+ok  	gitlab.com/elixxir/server	5.472s
