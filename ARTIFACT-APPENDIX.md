@@ -27,4 +27,3 @@ No execution environment is required. The artefact consists of plaintext files o
 ### Accessibility
 
 The artefact is available at: https://github.com/pogen300/cmix-artefact
-The repository is currently private during the artefact evaluation process, but will be made public upon camera-ready.
